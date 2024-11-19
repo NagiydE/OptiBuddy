@@ -12,7 +12,6 @@ Saved Links: Save and manage useful resources.
 Chat with OptiBuddy
 Connect with OptiBuddy for troubleshooting and general guidance.
 Style Guide
-Browse common glasses styles (e.g., Cat-eye, Rectangle) and materials (e.g., Plastic, Metal, Titanium).
 Find an Eye Doctor
 A tool to search for eye doctors based on location.
 Saved Links
@@ -41,3 +40,14 @@ Install dependencies:
 5. Start the application: node server.js
 6. Access the app in your browser at:
 http://localhost:2021/
+
+## Future Enhancements
+Add a title and URL to save a link.
+Delete links when they are no longer needed.
+Add real-time chat functionality with AI-powered responses.
+Expand the Style Guide with images and more detailed descriptions.
+Integrate a location-based API for finding nearby eye doctors.
+Enable user-uploaded profile pictures.
+
+## License
+This project is licensed under the MIT License.
