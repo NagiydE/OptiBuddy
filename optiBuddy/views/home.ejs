@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home - OptiBuddy</title>
+  <link rel="stylesheet"
+  href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+<link rel="stylesheet"
+  href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <header class="home-header">
+     
+      <h2 class="greeting">Hello, <%= user.name %>!</h2>
+  
+    
+      <div class="profile-pic">
+        <img src="<%= user.profilePic %>" alt="User Profile Pic">
+      </div>
+    </header>
+  
+    <main class="home-links">
+    
+      <a href="/style-guide" class="home-link">
+        <span class="link-text">Style Guide</span>
+        <img src="/images/style-guide.jpg" alt="Style Guide">
+      </a>
+  
+      <a href="/chat" class="home-link">
+        <span class="link-text">Chat with OptiBuddy!</span>
+        <img src="/images/chat.jpg" alt="Chat with OptiBuddy">
+      </a>
+  
+   
+      <a href="/find-eye-doctor" class="home-link">
+        <span class="link-text">Find an Eye Doctor</span>
+        <img src="/images/eye-doctor.jpg" alt="Find an Eye Doctor">
+      </a>
+
+      <a href="/saved-links" class="home-link">
+        <span class="link-text">Saved Links</span>
+        <img src="/images/saved-links.jpg" alt="Saved Links">
+      </a>
+    </main>
+  </body>
+  </html>
