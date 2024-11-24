@@ -51,3 +51,13 @@ Enable user-uploaded profile pictures.
 
 ## License
 This project is licensed under the MIT License.
+![Screenshot 2024-11-24 at 4 51 48 PM](https://github.com/user-attachments/assets/a9485fce-dd28-420e-8298-289621fb6d51)
+
+![Screenshot 2024-11-24 at 4 50 17 PM](https://github.com/user-attachments/assets/b5fd0c35-d178-49c3-b315-4139f79256e3)
+
+
+![Screenshot 2024-11-24 at 4 41 06 PM](https://github.com/user-attachments/assets/13f1ed0d-d35b-4c4a-82cf-83e0c22c06cc)
+
+
+
+
